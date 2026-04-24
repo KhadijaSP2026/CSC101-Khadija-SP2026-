@@ -5,3 +5,5 @@ Section: [ELC-1A]
 Why learning programming is important for me:
 
 Learning programming is important for me because it helps me develop problem-solving skills and logical thinking. It allows me to understand how technology works behind the scenes, which is very useful in today’s digital world. Programming also opens up many career opportunities in different fields such as software development and data science. It improves my creativity by allowing me to build my own projects and ideas. Additionally, it helps me become more independent in learning new technologies. Overall, programming is a valuable skill that will benefit me in both my academic and professional life.
+i will start my process of learning by practicing c language on github. 
+i look forward to many new projects and creative insights.
